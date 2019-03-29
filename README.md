@@ -14,13 +14,17 @@ https://github.com/dylanbai8/ideahub
 ### 3.操作截图：
 
 a.安装右键
+
 ![](https://raw.githubusercontent.com/dylanbai8/books_push_to_kindle/master/img/01.jpg)
 
 b.右键菜单
+
 ![](https://raw.githubusercontent.com/dylanbai8/books_push_to_kindle/master/img/02.jpg)
 
 c.推送成功
+
 ![](https://raw.githubusercontent.com/dylanbai8/books_push_to_kindle/master/img/03.jpg)
 
 d.接收演示
+
 ![](https://raw.githubusercontent.com/dylanbai8/books_push_to_kindle/master/img/04.jpg)
